@@ -1,0 +1,39 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "52,1148,566,1560"
+
+[AB_Cache_{19227351-FD08-4BF6-8BA0-A9FB4B904DBB}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "6c6d9a0cff4cc234745b323690738147"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/BTH786/Desktop/First_Thing/builds/T"
+Cache_GenFile[0][Path] Line0002 = "imer2/My Application/run.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/BTH786/Desktop/First_Thing/builds/T"
+Cache_GenFile[1][Path] Line0002 = "imer2/My Application/run.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/BTH786/Desktop/First_Thing/builds/T"
+Cache_GenFile[2][Path] Line0002 = "imer2/My Application/run.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{9D013BBF-6F4A-4C9C-A841-82DD5CF7E79F}"
+Cache_GenGUID[1][String] = "{B7CFA024-FD2F-4E77-850F-07156919EB45}"
+Cache_GenGUID[2][String] = "{DD36D5E4-20EF-4421-BF9B-485F289041B0}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/BTH786/Desktop/First_Thing/builds/Ti"
+Cache_OutputDir[Path] Line0002 = "mer2/My Application"
+
+[AB_Cache_{1EC44274-B4EB-4DC2-91DD-DDB710811200}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "6c6d9a0cff4cc234745b323690738147"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/BTH786/Desktop/First_Thing/builds/T"
+Cache_GenFile[0][Path] Line0002 = "imer2/My Application/run.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/BTH786/Desktop/First_Thing/builds/T"
+Cache_GenFile[1][Path] Line0002 = "imer2/My Application/run.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/BTH786/Desktop/First_Thing/builds/T"
+Cache_GenFile[2][Path] Line0002 = "imer2/My Application/run.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{9D013BBF-6F4A-4C9C-A841-82DD5CF7E79F}"
+Cache_GenGUID[1][String] = "{B7CFA024-FD2F-4E77-850F-07156919EB45}"
+Cache_GenGUID[2][String] = "{DD36D5E4-20EF-4421-BF9B-485F289041B0}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/BTH786/Desktop/First_Thing/builds/Ti"
+Cache_OutputDir[Path] Line0002 = "mer2/My Application"
+

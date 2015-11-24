@@ -1,0 +1,47 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "107,1102,621,1514"
+
+[AB_Cache_{969A0202-D3D9-483E-8F65-FDF2B63DCEB9}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "74e813f3ba1e409154af2c9cdd1dc200"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/BTH786/Downloads/Timer2Go_Project_F"
+Cache_GenFile[0][Path] Line0002 = "ull_Files_v2/Timer2Go_Project_Full_Files_v2/"
+Cache_GenFile[0][Path] Line0003 = "builds/Timer2go/Timer2go/Timer2go.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/BTH786/Downloads/Timer2Go_Project_F"
+Cache_GenFile[1][Path] Line0002 = "ull_Files_v2/Timer2Go_Project_Full_Files_v2/"
+Cache_GenFile[1][Path] Line0003 = "builds/Timer2go/Timer2go/Timer2go.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/BTH786/Downloads/Timer2Go_Project_F"
+Cache_GenFile[2][Path] Line0002 = "ull_Files_v2/Timer2Go_Project_Full_Files_v2/"
+Cache_GenFile[2][Path] Line0003 = "builds/Timer2go/Timer2go/Timer2go.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{5EEEF35A-E6C7-427B-9DBD-9637830A0B3E}"
+Cache_GenGUID[1][String] = "{5F475B32-2589-4332-A1EC-636B4679FFF0}"
+Cache_GenGUID[2][String] = "{17D8A870-75B0-43CD-B425-75BD36F22BBE}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/BTH786/Downloads/Timer2Go_Project_Fu"
+Cache_OutputDir[Path] Line0002 = "ll_Files_v2/Timer2Go_Project_Full_Files_v2/bu"
+Cache_OutputDir[Path] Line0003 = "ilds/Timer2go/Timer2go"
+
+[AB_Cache_{BC0EF227-12FD-4F41-A092-FF0ADA609848}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "74e813f3ba1e409154af2c9cdd1dc200"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/BTH786/Downloads/Timer2Go_Project_F"
+Cache_GenFile[0][Path] Line0002 = "ull_Files_v2/Timer2Go_Project_Full_Files_v2/"
+Cache_GenFile[0][Path] Line0003 = "builds/Timer2go/Timer2go/Timer2go.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/BTH786/Downloads/Timer2Go_Project_F"
+Cache_GenFile[1][Path] Line0002 = "ull_Files_v2/Timer2Go_Project_Full_Files_v2/"
+Cache_GenFile[1][Path] Line0003 = "builds/Timer2go/Timer2go/Timer2go.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/BTH786/Downloads/Timer2Go_Project_F"
+Cache_GenFile[2][Path] Line0002 = "ull_Files_v2/Timer2Go_Project_Full_Files_v2/"
+Cache_GenFile[2][Path] Line0003 = "builds/Timer2go/Timer2go/Timer2go.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{5EEEF35A-E6C7-427B-9DBD-9637830A0B3E}"
+Cache_GenGUID[1][String] = "{5F475B32-2589-4332-A1EC-636B4679FFF0}"
+Cache_GenGUID[2][String] = "{17D8A870-75B0-43CD-B425-75BD36F22BBE}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/BTH786/Downloads/Timer2Go_Project_Fu"
+Cache_OutputDir[Path] Line0002 = "ll_Files_v2/Timer2Go_Project_Full_Files_v2/bu"
+Cache_OutputDir[Path] Line0003 = "ilds/Timer2go/Timer2go"
+
